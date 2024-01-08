@@ -10,7 +10,8 @@ public class MilesPerGallon {
         int miles = input.nextInt();
         System.out.println("please enter how many gallons of gas you have consumed: ");
         int gas = input.nextInt();
-
+        int answer = miles / gas;
+        System.out.println(answer + " was the miles per gallon you got.");
 
 
 

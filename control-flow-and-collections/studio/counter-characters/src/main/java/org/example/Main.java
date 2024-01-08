@@ -12,9 +12,5 @@ public class CharacterCounter {
     //figure out how to get user input through terminal
 
 
-        HashMap<String, Int>
-
-
-
     }
 }
